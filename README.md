@@ -21,7 +21,7 @@ I tried to focus on the backend and the functionality of the application.
 Here follow some of the screenshots of the application.
 
 ### Home page
-![Home page](/gitImg/index.PNG)
+![Home page](/gitImg/Index.PNG)
 
 ### Sign up page
 ![Sign up page](/gitImg/SigninSignupForm.PNG)
