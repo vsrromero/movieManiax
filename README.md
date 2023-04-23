@@ -5,7 +5,7 @@ MovieManiax is a movie database application that allows users to search for movi
 ## Improvements
 
 I already started migrating the application to use mvc and oop. I will be adding more features to the application as I finish my Laravel and Node projects.
-I have not much time to code using oop and mvc, due to my work and the deadline I have to meet for my Laravel and Node projects.
+I had not much time to code using oop and mvc, due to my work and the deadline I have to meet for my Laravel and Node projects.
 
 ## Personal goals with this project
 
